@@ -11,3 +11,7 @@ How to Use:
 1.Download the correct package for your pc's OS
 2.Unzip the Package
 3.Run the program
+
+
+
+Go Check Out The Releases!!!!!
